@@ -1,4 +1,4 @@
-# ✒️ Inkwell Pro
+# ✒️ Inkwell
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-purple)
